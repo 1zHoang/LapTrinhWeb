@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\bin\Debug\DongHo.exe.config
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\bin\Debug\DongHo.exe
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\bin\Debug\DongHo.pdb
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.Form1.resources
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.exe
+C:\Users\ADMIN\Desktop\Nguyễn Việt Hoàng\DongHo\DongHo\obj\Debug\DongHo.pdb
